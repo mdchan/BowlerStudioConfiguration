@@ -7,7 +7,24 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/9c7f1c36682d26dc6336f2dc70042742.git:servoVitamin.groovy": [
+      "https://gist.github.com/9c7f1c36682d26dc6336f2dc70042742.git",
+      "servoVitamin.groovy"
+    ],
+    "https://github.com/madhephaestus/MechWarfareWPI.git:LinkedCadEngine.groovy": [
+      "https://github.com/madhephaestus/MechWarfareWPI.git",
+      "LinkedCadEngine.groovy"
+    ],
+    "https://github.com/madhephaestus/MechWarfareWPI.git:MechWarfareWPI.xml": [
+      "https://github.com/madhephaestus/MechWarfareWPI.git",
+      "MechWarfareWPI.xml"
+    ],
+    "https://github.com/madhephaestus/MechWarfareWPI.git:DH-Solver.groovy": [
+      "https://github.com/madhephaestus/MechWarfareWPI.git",
+      "DH-Solver.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.7",
     "skinBranch": "0.20.7",

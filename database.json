@@ -7,12 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/madhephaestus/MechWarfareWPI.git:MechWarfareWPI.xml": [
-      "https://github.com/madhephaestus/MechWarfareWPI.git",
-      "MechWarfareWPI.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.7",
     "skinBranch": "0.20.7",

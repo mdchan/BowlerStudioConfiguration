@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/60cdb2e0b83e12d87ec34740bc1998b3.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/60cdb2e0b83e12d87ec34740bc1998b3.git",
+      "SimulatePhysics.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.7",
     "skinBranch": "0.20.7",

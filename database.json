@@ -11,6 +11,14 @@
     "https://gist.github.com/60cdb2e0b83e12d87ec34740bc1998b3.git:SimulatePhysics.groovy": [
       "https://gist.github.com/60cdb2e0b83e12d87ec34740bc1998b3.git",
       "SimulatePhysics.groovy"
+    ],
+    "null:DefaultDhSolver.groovy": [
+      null,
+      "DefaultDhSolver.groovy"
+    ],
+    "null:WalkingDriveEngine.groovy": [
+      null,
+      "WalkingDriveEngine.groovy"
     ]
   },
   "BowlerStudioConfigs": {

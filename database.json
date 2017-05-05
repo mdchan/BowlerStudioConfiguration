@@ -7,20 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/60cdb2e0b83e12d87ec34740bc1998b3.git:SimulatePhysics.groovy": [
-      "https://gist.github.com/60cdb2e0b83e12d87ec34740bc1998b3.git",
-      "SimulatePhysics.groovy"
-    ],
-    "https://gist.github.com/519a7bac7a5bca14b3925f966a8e00e5.git:MoveLink.groovy": [
-      "https://gist.github.com/519a7bac7a5bca14b3925f966a8e00e5.git",
-      "MoveLink.groovy"
-    ],
-    "https://github.com/madhephaestus/MechWarfareWPI.git:MechWarfareWPI.xml": [
-      "https://github.com/madhephaestus/MechWarfareWPI.git",
-      "MechWarfareWPI.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.7",
     "skinBranch": "0.20.7",
